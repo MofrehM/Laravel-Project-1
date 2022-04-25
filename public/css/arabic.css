@@ -1,0 +1,9 @@
+body{
+text-align: right ;
+}
+body, a, li, ul,p, label, input,button{
+	font-family:'Cairo', sans-serif !important;
+}
+.nav{
+padding-right:0;
+}

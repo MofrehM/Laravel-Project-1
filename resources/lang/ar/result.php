@@ -1,0 +1,27 @@
+<?php
+return [
+'YourResultis'=>"نتيجتك هي:",
+'FinallResult'=>"النتيجه النهائيه:",
+'ResultHeader'=>"هنا يمكنك التنقل لمشاهدة تفاصيل درجاتك",
+'FocusedDrive'=>"الأداء الموجه والمركز ",
+'EmotionalIntelligence'=>"الذكاء العاطفي ",
+'BuildingTrustEnablingOthers'=>"التأثير المبني على الثقة ",
+'ConceptualThinking'=>"التفكير الاستدلالي والتصويري",
+'SystemsThinking'=>"التفكير المنظومي ",
+'ActualScore'=>"الدرجة الفعليه",
+'Average'=>"المتوسط ",
+'MaxScore'=>" الدرجة النهائية ",
+'DetailedScore'=>"الدرجة التفصيلية",
+'ChartDir'=>"ltr",
+'max'=>"Max",
+'FullResult'=>"هذه درجات جميع الأسئلة !",
+'CFocusedDrive'=>"الجداره - الأداء الموجه والمركز ",
+'CEmotionalIntelligence'=>"الجداره - الذكاء العاطفي ",
+'CBuildingTrustEnablingOthers'=>"الجداره - التأثير المبني على الثقة ",
+'CConceptualThinking'=>"الجداره - التفكير الاستدلالي والتصويري",
+'CSystemsThinking'=>"الجداره - التفكير المنظومي ",
+'QuestionNumber'=>"رقم السؤال",
+'ScoreLable'=>"الدرجه",
+'SuccessSurveyResult'=>"شكراً لك, لقد تم حفظ تقييمك بنجاح!" ,
+]
+?>

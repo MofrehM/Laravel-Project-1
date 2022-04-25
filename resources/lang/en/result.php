@@ -1,0 +1,27 @@
+<?php
+return [
+'YourResultis'=>"Your Result is:",
+'FinallResult'=>"Finall Result",
+'ResultHeader'=>"Here is your result that you could navigate to see its details",
+'FocusedDrive'=>"Focused Drive",
+'EmotionalIntelligence'=>"Emotional Intelligence",
+'BuildingTrustEnablingOthers'=>"Building Trust/ Enabling Others",
+'ConceptualThinking'=>"Conceptual Thinking",
+'SystemsThinking'=>"Systems Thinking",
+'ActualScore'=>"Actual Score",
+'Average'=>"Average",
+'MaxScore'=>"Max Score",
+'DetailedScore'=>"Detailed Score",
+'ChartDir'=>"ltr",
+'max'=>"Max",
+'FullResult'=>"Here is your result for each question",
+'CFocusedDrive'=>"Competency - Focused Drive",
+'CEmotionalIntelligence'=>"Competency - Emotional Intelligence",
+'CBuildingTrustEnablingOthers'=>"Competency - Building Trust/ Enabling Others",
+'CConceptualThinking'=>"Competency - Conceptual Thinking",
+'CSystemsThinking'=>"Competency - Systems Thinking",
+'QuestionNumber'=>"Question Number",
+'ScoreLable'=>"Score",
+'SuccessSurveyResult'=>"Thanks, your Survey is Submitted Successfully!" ,
+]
+?>
